@@ -2,7 +2,7 @@
 
 This project leverages machine learning models to predict stock movements in the S&P 500 index. The model predicts whether the stock price will go high or low based on historical data from Yahoo Finance. The user can input a future date, and the app will predict the trend for that date while visualizing the historical stock data up to the selected date.
 ## Live Demo
-Check out the live app: [E-commerce Yearly Spending Prediction-([https://your-deployment-link.com](https://e-commerce-yearly-spending-prediction-model-alg2qn23hjrr7bqpy6.streamlit.app/))]
+Check out the live app: [S&P 500 Stock Prediction Prediction-([visit now](https://e-commerce-yearly-spending-prediction-model-alg2qn23hjrr7bqpy6.streamlit.app/))]
 ## Features
 - **Stock Prediction**: Predicts whether the stock will go high or low on the specified future date.
 - **Historical Data Visualization**: Displays a graph of the historical stock data up to the selected date.
